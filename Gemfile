@@ -14,6 +14,8 @@ gem 'carrierwave', '~> 1.0'
 
 gem 'figaro'
 
+gem 'fog'
+
 # 이미지편집
 gem 'mini_magick'
 
