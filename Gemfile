@@ -12,6 +12,8 @@ gem 'kaminari'
 # 파일업로더
 gem 'carrierwave', '~> 1.0'
 
+gem 'figaro'
+
 # 이미지편집
 gem 'mini_magick'
 
